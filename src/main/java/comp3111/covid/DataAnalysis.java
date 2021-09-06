@@ -7,7 +7,7 @@ import edu.duke.*;
  * 
  * Data Explorer on COVID-19
  * @author <a href=mailto:namkiu@ust.hk>Namkiu Chan</a>
- * @version	1.0
+ * @version	1.1
  * 
  */
 public class DataAnalysis {
